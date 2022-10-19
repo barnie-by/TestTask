@@ -1,0 +1,110 @@
+[
+ {
+  "name": "Valparaíso",
+  "address": "Esmeralda 940 L.4 - Valparaíso",
+  "phone": "71-2201096",
+  "working_hours": " Mañana: 08.50 a 14.10 hrs. Tarde: 15.00 a 17.10 horas (L a J) / Hasta 16.10 horas (V)"
+ },
+ {
+  "name": "Santiago",
+  "address": "San Antonio 399 - Santiago",
+  "phone": "71-2201020",
+  "working_hours": " Mañana: 8.50 a 14.10 hrs. Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+ },
+ {
+  "name": "San Fernando",
+  "address": "Bernardo O Higgins 479 - San Fernando",
+  "phone": "71-2201048",
+  "working_hours": " Mañana: 8.50 a 14.10 hrs. Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+ },
+ {
+  "name": "Cauquenes",
+  "address": "Claudina Urrutia 356 - Cauquenes",
+  "phone": "71-2201004",
+  "working_hours": " Mañana: 8.50 a 14.10 hrs. Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+ },
+ {
+  "name": "Curicó",
+  "address": "Merced 263 - Curicó",
+  "phone": "71-2201046",
+  "working_hours": " Mañana: 8.50 a 14.10 hrs. Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+ },
+ {
+  "name": "Molina",
+  "address": "Quechereguas 1783 - Molina",
+  "phone": "71-2201021",
+  "working_hours": " Mañana: 8.50 a 14.10 hrs. Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+ },
+ {
+  "name": "Linares",
+  "address": "Maipú 360 - Linares",
+  "phone": "71-2201007",
+  "working_hours": " Mañana: 8.50 a 14.10 hrs. Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+ },
+ {
+  "name": "Parral",
+  "address": "Anibal Pinto 879 - Parral",
+  "phone": "71-2201003",
+  "working_hours": " Mañana: 8.50 a 14.10 hrs. Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+ },
+ {
+  "name": "San Javier",
+  "address": "Arturo Prat 2639 - San Javier",
+  "phone": "71-2201008",
+  "working_hours": " Mañana: 8.50 a 14.10 hrs. Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+ },
+ {
+  "name": "Constitución",
+  "address": "Montt 262 - Constitución",
+  "phone": "71-2201009",
+  "working_hours": " Mañana: 8.50 a 14.10 hrs. Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+ },
+ {
+  "name": "Curepto",
+  "address": "Plaza de Armas s/n - Curepto",
+  "phone": "71-2201018",
+  "working_hours": " Mañana: 8.50 a 14.10 hrs. Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+ },
+ {
+  "name": "San Clemente",
+  "address": "Huamachuco 810 - San Clemente",
+  "phone": "71-2201005",
+  "working_hours": " Mañana: 8.50 a 14.10 hrs. Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+ },
+ {
+  "name": "Talca - 14 Oriente",
+  "address": "14 Oriente 968 - Talca",
+  "phone": "71-2201102",
+  "working_hours": " Continuado: 8.50 a 17.10 hrs. (L a J) Continuado: 8.50 a 16.10 hrs. (V)"
+ },
+ {
+  "name": "Los Ángeles",
+  "address": "Valdivia 320 - Los Ángeles",
+  "phone": "71-2201098",
+  "working_hours": " Mañana: 8.50 a 14.10 hrs. Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+ },
+ {
+  "name": "Concepción",
+  "address": "Barros Arana 519 - Concepción",
+  "phone": "71-2201093",
+  "working_hours": " Mañana: 8.50 a 14.10 hrs. Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+ },
+ {
+  "name": "Chillán",
+  "address": "18 de Septiembre 618 - Chillán",
+  "phone": "71-2201062",
+  "working_hours": " Mañana: 08.50 a 14.10 hrs. Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+ },
+ {
+  "name": "Temuco",
+  "address": "Manuel Bulnes 649, local 2A - Temuco",
+  "phone": "71-2201067",
+  "working_hours": " Mañana: 08.50 a 14.10 horas Tarde: 15.00 a 17.10 horas (L a J) / Hasta 16.10 horas (V)"
+ },
+ {
+  "name": "Puerto Montt",
+  "address": "Antonio Varas 472 - Puerto Montt",
+  "phone": "71-2201094",
+  "working_hours": " Mañana: 8.50 a 14.10 hrs. Tarde: 15.00 a 17.10 horas (L a J) / Hasta 16.10 horas (V)"
+ }
+]
